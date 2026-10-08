@@ -1,0 +1,28 @@
+name: Замечание или исправление — Русский
+description: Вопрос, возражение или предлагаемое исправление к заявлению.
+body:
+  - type: markdown
+    attributes:
+      value: "Для ответа не требуется согласие с заявлением. Предлагать замену необязательно."
+  - type: textarea
+    id: passage
+    attributes:
+      label: Фрагмент или раздел
+      description: Если замечание относится к конкретному месту, приведите цитату или ссылку на раздел.
+    validations:
+      required: false
+  - type: textarea
+    id: response
+    attributes:
+      label: Вопрос, возражение или исправление
+      description: Укажите, что предлагается рассмотреть. Отделите комментарий от цитаты.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Источники или предлагаемая формулировка
+      description: Необязательно. Для замечания к источнику укажите документ, страницу или пункт.
+    validations:
+      required: false
+

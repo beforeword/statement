@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Citation details for the public statement. Сведения для ссылки на публичное заявление."
+title: "Why are these words about me?"
+authors:
+  - family-names: "Shebetov"
+    given-names: "Kirill"
+date-released: 2026-10-08
+url: "https://beforeword.xyz/statement/en/"
+license: MIT
+preferred-citation:
+  type: generic
+  title: "Why are these words about me?"
+  authors:
+    - family-names: "Shebetov"
+      given-names: "Kirill"
+  year: 2026
+  month: 10
+  day: 8
+  url: "https://beforeword.xyz/statement/en/"
+

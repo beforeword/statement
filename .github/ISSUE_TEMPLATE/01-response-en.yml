@@ -1,0 +1,28 @@
+name: Comment or correction — English
+description: Ask a question, raise an objection, or suggest a correction to the statement.
+body:
+  - type: markdown
+    attributes:
+      value: "You do not need to agree with the statement to respond. A proposed replacement is optional."
+  - type: textarea
+    id: passage
+    attributes:
+      label: Passage or section
+      description: Quote the wording or link to the section you want to discuss, if applicable.
+    validations:
+      required: false
+  - type: textarea
+    id: response
+    attributes:
+      label: Question, objection or correction
+      description: Describe the point you want to raise. Keep your comment separate from any quotation.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or suggested wording
+      description: Optional. For a source correction, include the document and page or paragraph.
+    validations:
+      required: false
+
