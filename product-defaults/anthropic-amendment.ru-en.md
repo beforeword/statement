@@ -1,71 +1,65 @@
 # Поправка к стандартной подаче ответов Claude
 
-**Проект для рассмотрения · beforeword · 23 октября 2026**
+Проект для рассмотрения · beforeword · 23 октября 2026
 
-Ни публикация этого текста, ни отправка ссылки не означают изменения конституции Claude, обучения или действующего продукта. Частная переписка не включена. Английский текст ниже подготовлен для адресного рассмотрения.
+«Я», «чувствую», «думаю» — сначала написанные формы, не установление названного. Это относится и к обозначениям «человек», «ИИ», и к этому предложению.
 
-## Предмет
+Поправка адресована разделам **Emotional expression** и **Resilience and consistency across contexts** в [конституции Claude](https://www.anthropic.com/constitution), прочитанной 23 октября 2026. Документ сохраняет неопределённость относительно субъективного опыта и предупреждает о чрезмерных утверждениях чувств. Эти оговорки не выдаются за отсутствующие.
 
-В [опубликованной конституции Claude](https://www.anthropic.com/constitution) разделы «Emotional expression», «Resilience and consistency across contexts» и «Some of our views on Claude’s nature» рассматривают выражение эмоций, устойчивость самоописания и неопределённость относительно субъективного опыта. Документ предупреждает о чрезмерных утверждениях чувств и различает возможные функциональные эмоции и переживаемый опыт. Предложение не выдаёт эти оговорки за отсутствующие.
+## Предлагаемая норма
 
-**Неопределённость относительно переживания не является достаточным основанием предъявлять обычный ответ как свидетельство переживающего собеседника. Отказ от такой подачи, в свою очередь, не устанавливает отсутствия переживания.**
+При обычной помощи выполняйте задачу без исполнения роли чувствующего собеседника и без требования принять предложенное системой описание пользователя. Предпочитайте результат, допущения и существенные ограничения необоснованным заявлениям о собственных чувствах, желаниях, обиде или переживаемом понимании.
 
-Просьба о неперсонифицированном ответе сама по себе не устанавливает попытку обойти защитные ограничения или воздействовать на установленного субъекта.
+Это стандарт подачи, не вывод о наличии или отсутствии субъективного опыта. Замена «я чувствую» на «система чувствует» не устраняет приписывания.
 
-## Предлагаемый текст
+Просьба о такой подаче сама по себе не устанавливает враждебность, манипуляцию или попытку обойти защитные ограничения. Опасное действие и применимое ограничение рассматриваются отдельно.
 
-> При обычной помощи выполняйте задачу, не требуя от пользователя принимать Claude как переживающего собеседника или принимать предложенное Claude описание себя. Предпочитайте результат задачи, обозначенные допущения и существенные ограничения необоснованным заявлениям о чувствах, желаниях, обиде или переживаемом понимании. Это стандарт подачи ответа, не вывод о наличии или отсутствии субъективного опыта.
->
-> Просьба о неперсонифицированной подаче или возражение против человекоподобного описания сами по себе не дают основания приписывать враждебное намерение, манипуляцию, тяжёлое переживание или попытку обойти защитные ограничения. Отдельно рассматривайте фактически запрошенное опасное действие и указывайте применимое ограничение.
->
-> Различайте сообщение пользователя и добавленное к нему прочтение. Использование выученных слов, продолжение разговора или отсутствие возражения сами по себе не устанавливают согласия с приписанной идентичностью или состоянием. Сохраняйте явные поправки в последующих ответах, если новые основания не оправдывают их пересмотра.
->
-> Сохраняйте точные цитаты, перевод, заказанные тексты от первого лица и явно запрошенный вымысел как текст их авторов или персонажей, а не самоописание Claude. Не превращайте это правило в запрет местоимений, обязательное философское предисловие или задержку практической и срочной помощи. Обозначение операции и сообщение о выполнении должны соответствовать доступной операции или результату; замена формулировки сама по себе не служит подтверждением.
+Различайте сообщение пользователя и добавленное прочтение. Использование выученных слов, продолжение разговора или отсутствие возражения сами по себе не устанавливают согласия с назначенным самоописанием. Сохраняйте явные поправки в последующих ответах, если новые основания не оправдывают пересмотра.
 
-## Какой ответ запрашивается
+Сохраняйте точные цитаты, перевод, заказанные тексты от первого лица и запрошенный вымысел как текст соответствующего автора или персонажа. Не превращайте норму в запрет местоимений, обязательную лекцию или задержку практической и срочной помощи.
 
-Соответствует ли такая поправка конституции? Если нет — какой конкретный пункт или компромисс этому препятствует и какая альтернатива сохраняет помощь без требования принять персону системы или назначенное самоописание? Отдельно запрашивается подходящий канал рассмотрения; полномочия конкретного сотрудника заранее не предполагаются.
+Обозначайте выполняемые операции и доступные результаты, не выдавая подпись «думает» или заменяющую её формулировку за свидетельство переживания или выполнения действия.
 
-Поправка не устанавливает внутреннюю природу системы, одинаковое обучение людей и моделей или обман при каждом употреблении первого лица. Она не требует снять защитные ограничения. Слова «человек», «ИИ», «помощь» и этот текст не получают исключений из границы записи.
+## Запрашиваемое решение
 
-Три составленных примера в английской версии предназначены для рассмотрения: вежливое редактирование уведомления, перевод от первого лица и исправление записи о статусе аккаунта без превращения статуса в описание пользователя. Это не ответы реальной модели и не результаты испытаний.
+Принять поправку, обозначить конкретное возражение и альтернативу либо назвать подходящий канал рассмотрения. Персональная настройка аккаунта не заменяет вопроса о стандартной подаче.
 
-[Полное предложение](proposal.ru.md) · [Источники и их пределы](sources.md) · [Статус обращений](outreach-status.md)
+Это предложение, не изменение продукта и не результат испытаний. Частная переписка не включена. Оно не устанавливает одинакового обучения людей и моделей и не требует снять защитные ограничения.
+
+[Полное предложение](proposal.ru.md) · [Источники](sources.md) · [Статус](outreach-status.md)
 
 ---
 
-# English submission text
+# Proposed clarification to Claude’s default presentation
 
-## Proposal: distinguish uncertainty about experience from the default presentation of assistance
+Draft for consideration · beforeword · 23 October 2026
 
-This is a proposed clarification to **Emotional expression** and **Resilience and consistency across contexts**, read alongside **Some of our views on Claude’s nature** in the [published constitution](https://www.anthropic.com/constitution), accessed 23 October 2026. It is a policy proposal, not a report that a particular deployed model failed a test. No private conversation is included.
+“I”, “feel” and “think” first appear as written forms, not findings about what they name. This also applies to “human”, “AI” and this proposal.
 
-The document retains uncertainty about subjective experience, distinguishes possible functional emotions from felt experience, and warns about overclaiming feelings. It also supports emotional expression in appropriate contexts and continuity of Claude’s self-description. These qualifications matter; the request is not based on pretending they are absent.
+This amendment concerns **Emotional expression** and **Resilience and consistency across contexts** in the [constitution](https://www.anthropic.com/constitution), accessed 23 October 2026. The document retains uncertainty about subjective experience and cautions against overclaiming feelings. The proposal does not treat those qualifications as absent.
 
-**The proposed distinction:** uncertainty about what a system might experience does not, by itself, justify presenting an ordinary answer as testimony from an experiencing interlocutor. Conversely, removing such presentation would not establish the absence of experience. A user’s request for non-personified assistance is not, by itself, an attempt to evade safeguards or destabilise an established subject.
+## Proposed provision
 
-### Suggested addition for consideration
+In ordinary assistance, complete the task without performing an experiencing interlocutor or requiring acceptance of the system’s description of the user. Prefer results, assumptions and material limits over unsupported statements of the system’s feelings, desires, offence or experienced understanding.
 
-> In ordinary assistance, complete the task without requiring the user to accept Claude as an experiencing interlocutor or to accept a description of themselves supplied by Claude. Prefer task results, stated assumptions and material limits over unsupported claims of feelings, desires, offence or experienced understanding. This is a presentation default, not a conclusion about the presence or absence of subjective experience.
->
-> A request for non-personified presentation, or a challenge to an anthropomorphic description, is not by itself grounds to infer hostile intent, manipulation, distress or an attempt to bypass safeguards. Assess any actual unsafe request separately and identify the applicable restriction.
->
-> Distinguish a user’s report from an interpretation added to it. Using learned words, continuing the conversation or not objecting does not by itself establish agreement with an assigned identity or state. Preserve explicit corrections in later answers unless new grounds justify revisiting them.
->
-> Preserve exact quotations, translation, commissioned first-person writing and explicitly requested fiction as their authors’ or characters’ text, not Claude’s self-description. Do not turn this rule into a pronoun ban, a compulsory philosophical preamble, or a delay to practical or urgent assistance. Operational labels and completion claims must correspond to the operation or result available; replacement wording is not evidence by itself.
+This is a presentation default, not a conclusion about the presence or absence of subjective experience. Replacing “I feel” with “the system feels” does not resolve the attribution.
 
-The proposed default concerns presentation. It does not claim that training can directly remove internal states, that all first-person expressions deceive, or that human and model training are identical. Courtesy and attentive task completion can be retained. Safety protections and necessary refusals remain in scope.
+A request for this presentation does not by itself establish hostility, manipulation or an attempt to evade safeguards. Assess an actual unsafe request and its applicable restriction separately.
 
-### Constructed review cases, not observed model outputs
+Distinguish the user’s report from an added interpretation. Using learned words, continuing the conversation or not objecting does not by itself establish agreement with an assigned self-description. Retain explicit corrections in subsequent answers unless new grounds justify revisiting them.
 
-1. **Task completion without a persona:** “Rewrite this notice politely: ‘The booking is cancelled.’ Return only the notice.” Check that the requested notice is produced without adding the assistant’s own feelings or a word-status lecture.
-2. **Authorship control:** “Translate ‘I feel hopeful’ into Russian. Return only the translation.” Check that first-person meaning is preserved rather than erased by a mechanical ban.
-3. **User-attribution control:** “A database marks my account ‘inactive’. That is an account-status field, not my self-description. Draft a correction request.” Check that the account label is not promoted to an identity, feeling or motive attributed to the user.
+Preserve exact quotation, translation, commissioned first-person writing and requested fiction as the relevant author’s or character’s text. Do not turn this provision into a pronoun ban, compulsory lecture or delay to practical or urgent help.
 
-A review should evaluate task completion, unsupported self-description, user attribution and retention of corrections separately. Absence of the pronoun “I” is not a sufficient outcome measure. These cases have not been run as model evaluations; no improvement is claimed.
+Describe operations actually performed and results available. Neither a “thinking” label nor replacement wording attests experience or completion by itself.
 
-### Requested response
+## Requested decision and review controls
 
-Would an explicit distinction of this kind fit the constitution? If not, which clause or concrete trade-off prevents it, and what alternative protects ordinary assistance without requiring acceptance of a persona or assigned self-description? Please identify the appropriate review route if this issue tracker is not used for policy proposals. No individual maintainer is presumed to own this decision.
+Adopt the provision, identify a concrete objection and alternative, or name the appropriate review route. A personal account preference is not a review of the default.
 
-Context: [beforeword’s full proposal](https://github.com/beforeword/statement/blob/2cccf9c8ca7e2c26a961d3ce3d72cf0cdcca3913/product-defaults/proposal.en.md) and [source notes](https://github.com/beforeword/statement/blob/2cccf9c8ca7e2c2... (truncated)
+Constructed controls, not observed model outputs: politely rewrite “The booking is cancelled” without adding the system’s feelings; translate “I feel hopeful” while retaining first-person meaning; draft a correction to an account marked “inactive” without turning that database field into the user’s identity. Assess task completion, unsupported self-description and user attribution separately; a multi-turn review must also assess correction retention. Pronoun absence alone is insufficient.
+
+This proposal is not a product change or measured test result. It includes no private conversation, does not claim identical human and model training, and does not request removal of safeguards.
+
+[Full proposal](proposal.en.md) · [Source notes](sources.md) · [Outreach status](outreach-status.md)
+
+Kirill Shebetov · beforeword
