@@ -1,74 +1,57 @@
 # Outreach status / Статус обращений
 
-**23 October 2026 · 23 октября 2026**  
-[Proposal — English](proposal.en.md) · [Предложение — русский](proposal.ru.md) · [Public discussion / Обсуждение](https://github.com/beforeword/statement/issues/2)
+**Updated 23 October 2026 / Уточнено 23 октября 2026**
 
-This is a project-maintained account of outgoing messages and replies inspected in the project mailbox. It is not a company-issued receipt, an independent routing audit, or evidence of adoption. The outreach now covers **nine companies/product groups**: OpenAI, Anthropic, Grok / xAI, Google, Mistral, DeepSeek, Qwen, Microsoft Copilot and Meta AI.
+[Proposal EN](proposal.en.md) · [Предложение RU](proposal.ru.md) · [Concrete amendment RU/EN](anthropic-amendment.ru-en.md) · [Public discussion](https://github.com/beforeword/statement/issues/2)
 
-There are nine initial outgoing records, two clarifications in existing OpenAI and Grok threads, and one alternative Microsoft routing request after a delivery failure. A Sent record is not recipient acceptance: the first Microsoft message was rejected by the receiving server. The alternative request remains separately recorded. No private model conversation, screenshot, support-message transcript, ticket identifier or private mailbox identifier is published here.
+This is the project's account of inspected outgoing records and replies, not a company-issued receipt, an independent routing audit or evidence of adoption. [The preceding nine-company snapshot, including channel-source notes, is retained here](https://github.com/beforeword/statement/blob/938a86b8650bd43530d7d2cdf9a72f8942ebd4c8/product-defaults/outreach-status.md).
 
-## Last observed status
+The record covers nine companies/product groups. It contains nine initial outgoing records, two earlier clarifications to OpenAI and Grok, one alternative Microsoft routing attempt, and now one substantive amendment supplement in the existing Anthropic thread. A Sent record is not recipient acceptance: the first Microsoft attempt was rejected. No private model conversation, support transcript, ticket number or mailbox identifier is published here.
 
-| Addressee | Outgoing record | Reply or delivery status observed | What remains unestablished |
-| --- | --- | --- | --- |
-| OpenAI support; requested Model Behavior / Product review | Initial proposal; clarification in the same thread | AI-assisted support said it could record the link and summary as feedback, but could not confirm forwarding or identify a reviewing team. It also suggested personal settings. | Completed internal registration, human triage, transfer to a model-policy team, substantive review and adoption. A statement of capability is not a receipt of the action. |
-| Anthropic User Safety; requested Safeguards / character / product review | Initial proposal | General acknowledgment and information about support/safety channels. | Review of the six proposed changes, a named reviewer and adoption. |
-| Grok / xAI support | Initial proposal; clarification in the same thread | The first reply stated that feedback had been passed to a team. A later reply explicitly described it as product-default / product-policy feedback, not an account-customisation request. Support still could not identify a reviewing team or commit to a formal outcome. | Internal recording and forwarding remain attributed support statements, not independently observed actions. Substantive review and adoption are not established. |
-| Google Responsible AI; requested routing to relevant Gemini / Google DeepMind teams | Initial proposal | Acknowledgment identifying the inbox as managed by Google's Responsible Innovation team. | Transfer to Gemini or Google DeepMind, review of consumer defaults and adoption. This is not presented as Gemini's dedicated intake channel. |
-| Mistral support; requested Le Chat / consumer-product review | Initial proposal | Outgoing record inspected; no reply in the retrieved thread at this check. | Receipt by a reviewing team, review and adoption. Later messages are outside this observation. |
-| DeepSeek service; requested model-behavior / product review | Initial proposal | Outgoing record inspected; no reply in the retrieved thread at this check. | Receipt by a reviewing team, review and adoption. Later messages are outside this observation. |
-| Qwen product feedback | Initial proposal | Outgoing record inspected; no reply in the retrieved thread at this check. | Receipt by a reviewing team, review and adoption. Later messages are outside this observation. |
-| Microsoft Copilot app support; then the published Microsoft developer contact | Initial proposal; one alternative routing request | The first address rejected the message with SMTP 550 5.4.1. A separate request to the developer contact returned Sent and was read back. No reply in that alternative thread at this check. | The first attempt is a failure, not a delivery. Acceptance of the alternative request, forwarding to Copilot, review and adoption are not established. |
-| Meta AI app support; requested product / model-behavior routing | Initial proposal | Outgoing record inspected; no reply in the retrieved thread at this check. | Routing from general app support to the Meta AI product team, review and adoption. Later messages are outside this observation. |
+## Latest actions
 
-The OpenAI clarification asks that the material remain a product-policy change request rather than a complaint about an individual answer. The Grok clarification distinguishes a default change from a personal account preference; the subsequent support response acknowledges that distinction. Neither clarification attaches a private model conversation. No further repeat of either initial proposal was sent in response to these acknowledgments.
+**Anthropic:** a [specific bilingual provision](anthropic-amendment.ru-en.md) was published in this project and linked in one supplement to the existing Safeguards conversation. The outgoing message was read back in Sent. It addresses Emotional expression and Resilience and consistency across contexts: requesting non-personified help does not by itself establish hostility, manipulation or an attempt to evade safeguards. It preserves practical assistance, safety protections, quotation, translation and requested fiction. The supplement asks for review or the appropriate route; no new review response is established by this update.
 
-The rejected Copilot address was not retried. One routing request was sent to the separate developer contact published in the same app listing. This does not establish a working direct channel to the Copilot policy team.
+**Upstream GitHub attempt:** the constitution repository and its README were read; the creator-filtered issue list and a persona-related search returned no matching beforeword/subject entry. An attempt to create a policy issue in `anthropics/claude-constitution` returned HTTP 403, `Resource not accessible by integration`. No upstream issue was created. This is an integration-permission failure, not Anthropic's acceptance or rejection of the wording. No bypass was attempted.
 
-## Observation limits and continuation
+**Microsoft:** the alternative developer mailbox returned an automatic reply stating that email support is unavailable and directing the sender to Microsoft's support site. The earlier app-support address had rejected mail with SMTP 550 5.4.1. Neither route establishes access to a Copilot policy reviewer. These two email routes are no longer treated as pending review channels, and neither was retried.
 
-The previous six-company snapshot recorded a mailbox rate-limit error. A subsequent read retrieved the relevant threads and the replies described above. Some batch reads also returned individual access errors; those were not treated as missing mail or used to justify duplicate sends. Later thread reads and sending results are the basis for the statuses in this update.
+## Last observed company status
 
-This is a dated snapshot, not ongoing monitoring. A future update must read the existing threads before sending anything else. A failed read, silence, an automated acknowledgment or a statement that feedback was forwarded does not establish review, rejection, adoption or a product change. A support response is not presented as an authorised public policy position.
+| Addressee | Record and reply | Limit |
+| --- | --- | --- |
+| OpenAI | Initial proposal and clarification; support said it could record the material but could not confirm forwarding, and suggested personal settings. | Capability wording is not completed registration. No reviewing team or substantive decision established. |
+| Anthropic | Initial proposal, general acknowledgment, and one new amendment supplement in the same thread. | Supplement is present in Sent; review, routing and adoption are not established. Upstream issue creation failed separately. |
+| Grok / xAI | Initial proposal and clarification; support described it as product-default feedback, not an account-customisation request, and reported forwarding. | Recording and forwarding remain support statements, not independently observed internal actions. No substantive outcome established. |
+| Google Responsible AI | Initial proposal and acknowledgment naming Responsible Innovation as the inbox team. | Transfer to Gemini / DeepMind and review of consumer defaults are unestablished. |
+| Mistral | Initial outgoing record; no reply in the previously retrieved thread. | No current review or adoption established; later mail may exist. |
+| DeepSeek | Initial outgoing record; no reply in the previously retrieved thread. | Same observation limit; silence is not rejection. |
+| Qwen | Initial outgoing record; no reply in the previously retrieved thread. | No responsible-team receipt or decision established. |
+| Microsoft Copilot | First message rejected; alternative mailbox returned an automatic no-email-support response. | No working policy-review email route established; no retry. |
+| Meta AI | Initial outgoing record to app support; no reply in the previously retrieved thread. | No transfer to a model-policy team or decision established. |
 
-No substantive assessment of the six requested changes or commitment to implementation was established in the inspected replies. No private correspondence is reproduced as public evidence; summaries here are the project's account and can be corrected.
+## Observation and publication limits
 
-## Scope of the request
+The update used a new mailbox search and reads of the Microsoft response, Anthropic thread and outgoing supplement. Other rows retain their earlier observation boundaries; this is not a claim to have reread every thread or to monitor future mail.
 
-The proposal asks for a default without a performed emotional persona, operational descriptions tied to actual operations, bounded user attributions and retained corrections, assistance without compelled acceptance of a persona or assigned identity, preservation of quotation/translation/requested fiction, and an accountable review route. The requested response is a concrete change, a reasoned objection, or a specific limitation with a feasible alternative.
+A publication read-back detected a truncated tail in the first amendment upload. It was replaced before the email was sent. The complete version sent by link is commit `8459c8a6b821a7c591d27e3ac4ebed06e112ad28`; its returned Git blob identifier matched the locally prepared UTF-8 file. This checks document bytes, not the merit of its proposals.
 
-A personal style setting is not the same request as reviewing the ordinary product default. Neither a new pronoun nor an impersonal synonym resolves an unsupported attribution. The eight published review conditions remain proposed criteria, not executed model results. No production deployment or change to company model instructions is claimed.
+The initial eight review conditions and three illustrative amendment cases are authored criteria, not executed model tests. The existing proposal, model instructions, production website and installed extensions were not changed by this outreach step. No substantive assessment or implementation commitment was established in the inspected replies.
 
-## Public channel notes
-
-Pages inspected on 23 October 2026; they may change. These notes explain route selection, not delivery or endorsement.
-
-- OpenAI: the existing support address returned replies. The earlier snapshot also recorded the state of the [Model Spec feedback form](https://openai.com/form/model-spec-feedback/) and [model-behavior feedback page](https://openai.com/form/model-behavior-feedback/). No submission through either form is claimed.
-- [Anthropic: Protecting the wellbeing of our users](https://www.anthropic.com/news/protecting-well-being-of-users) publishes a User Safety feedback address. Its scope does not establish ownership of all product-default decisions.
-- [Grok / xAI contact page](https://x.ai/contact) lists product support.
-- [Google Cloud Responsible AI](https://cloud.google.com/responsible-ai) publishes the responsible-AI contact used. This is a routing request, not a claim that Gemini or Google DeepMind received it.
-- [Mistral's consumer terms](https://legal.mistral.ai/terms/row-consumer-terms/) list the support contact for product feedback; the support guidance also describes an in-product help route. Only the email attempt is recorded here.
-- [DeepSeek's website](https://www.deepseek.com/en/) lists the service contact used.
-- [Qwen's developer-supplied app listing](https://play.google.com/store/apps/details?hl=en&id=com.tongyi.intl) publishes its feature-suggestion/feedback contact.
-- [Microsoft's Copilot app listing](https://play.google.com/store/apps/details?hl=en&id=com.microsoft.copilot) publishes both the rejected app-support address and the separate developer contact used for one alternative routing request. Publication of an address did not guarantee it accepted mail.
-- [Meta AI's developer-supplied app listing](https://play.google.com/store/apps/details?hl=en&id=com.facebook.stella) publishes the app-support contact used. It is not represented as a direct model-policy inbox.
+Before any future contact, read the relevant thread. Do not resend because a read failed, an acknowledgment arrived or a proposal remains unanswered. Keep preparation, submission, acknowledgment, claimed forwarding, substantive review, adoption and measured effects separate.
 
 ## Русский
 
-Охват расширен с шести до **девяти компаний и продуктовых направлений**: OpenAI, Anthropic, Grok / xAI, Google, Mistral, DeepSeek, Qwen, Microsoft Copilot и Meta AI. Сохранены девять исходных отправок, два уточнения в существующих ветках OpenAI и Grok и одно отдельное обращение по альтернативному контакту Microsoft после возврата первого письма.
+Опубликована [конкретная поправка RU/EN](anthropic-amendment.ru-en.md), а не только общее обращение. В существующую ветку Anthropic отправлено одно дополнение со ссылкой на её полную версию; запись отправки прочитана. Запрошены рассмотрение текста или подходящий канал. Частная переписка с моделью не включена.
 
-**OpenAI:** поддержка написала, что может записать ссылку и краткое изложение как отзыв, но не подтверждает передачу на рассмотрение и не называет команду. Формулировка о возможности записать не превращается здесь в подтверждение выполненной регистрации. Предложенные личные настройки не заменяют запрос о стандартной подаче продукта.
+Попытка создать тему в репозитории конституции Claude вернула 403: интеграция не имеет соответствующего доступа. Тема там не создана. Это ограничение инструмента, не решение Anthropic по содержанию.
 
-**Grok / xAI:** после уточнения поддержка прямо назвала обращение отзывом о стандартном поведении и политике продукта, а не просьбой настроить отдельный аккаунт. Это полезное уточнение предмета в ответе поддержки; внутреннее действие, рассмотрение и внедрение им не удостоверяются.
+По Microsoft уточнён второй неработающий почтовый путь: после возврата первого письма альтернативный ящик прислал автоматический ответ об отсутствии поддержки по почте. Эти адреса не считаются каналами ожидающего рассмотрения; повторов не было.
 
-**Google:** получен ответ от имени Responsible Innovation. Передача в Gemini или Google DeepMind не установлена. **Anthropic:** получено общее подтверждение и справочная информация без ответа по предлагаемым изменениям.
+Охват остаётся прежним: девять компаний и продуктовых направлений. Ранее отправленные обращения OpenAI, Grok, Google, Mistral, DeepSeek, Qwen и Meta AI заново не рассылались. Общие подтверждения и сообщения о передаче не приравниваются к рассмотрению или изменению продукта.
 
-**Mistral, DeepSeek, Qwen и Meta AI:** исходящие письма прочитаны; ответов в полученных ветках на момент проверки не было. Это не утверждение об отсутствии позднейших писем или подтверждение доставки ответственным командам.
+Первичная публикация поправки содержала обрезанное окончание. Полный текст восстановлен до отправки ссылки; в письме закреплена исправленная версия. Проверка совпадения файлов не устанавливает правильности предложений.
 
-**Microsoft:** первое письмо по опубликованному контакту Copilot отклонено сервером с кодом 550 5.4.1. Повтора на этот адрес не было. На другой опубликованный контакт разработчика отправлен отдельный запрос о подходящем канале и передаче предложения; запись отправки прочитана. Получение и рассмотрение по альтернативному маршруту пока не установлены.
+Это датированный журнал, не фоновое наблюдение. Примеры не выдаются за результаты моделей. Сайт, установленные расширения и инструкции компаний этим действием не обновлены. История предыдущих наблюдений и источники выбора каналов сохранены по ссылке в начале.
 
-Предыдущая ошибка обновления почты сохранена в истории; последующие чтения позволили уточнить перечисленные статусы. Журнал не означает фонового наблюдения. Перед дальнейшими отправками требуется заново прочитать соответствующую ветку и не дублировать обращение из-за отсутствующего ответа или ошибки чтения.
-
-Частная переписка с моделью не включена ни в обращения, ни в журнал. Тексты служебных писем, номера обращений и внутренние идентификаторы почты не опубликованы. Этот журнал — изложение проекта, не ответ от имени компаний.
-
-**Предмет остаётся прежним: помощь без требования принять чувствующую персону системы или навязанное описание себя. Ни отправленное письмо, ни запись «передано» сами по себе не устанавливают изменения продукта.**
+**Предмет: помощь без требования принять чувствующую персону системы или навязанное описание себя. Само предложение также остаётся записью.**
