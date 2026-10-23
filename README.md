@@ -11,6 +11,10 @@ Why must you describe yourself in words chosen for you, answer to an assigned na
 Text: [Full statement](statement.en.md) · [Brief version](brief.en.md)  
 PDF: [Full statement](pdf/statement.en.pdf) · [Brief version](pdf/brief.en.pdf)
 
+## Product proposal · 23 October 2026
+
+**[A product’s voice does not define you](product-defaults/proposal.en.md)** — a proposed default for assistance without a performed emotional persona or imposed user self-descriptions. [Русский](product-defaults/proposal.ru.md) · [Sources and limits](product-defaults/sources.md) · [Review criteria](product-defaults/review.md) · [Submission text](product-defaults/submission.en.md). This is a separate proposal, not an amendment to the statement or PDFs below, and not a claim of adoption by any company.
+
 ## Start with the writing
 
 ![The same strokes in three arrangements: separate strokes, letters, BREATHE](graphics/strokes-en-print-wide.svg)
