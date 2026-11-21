@@ -2,18 +2,11 @@
 
 English · [Русский](README.ru.md)
 
-Public statement · Kirill Shebetov · beforeword · 8 October 2026
+**A public statement by Kirill Shebetov · 8 October 2026**
 
-Why must you describe yourself in words chosen for you, answer to an assigned name or affirm statements chosen by others in your own name?
+Someone gives me a name. I can learn to say it. Why should that oblige me to answer to it, or to repeat someone else’s description as my own? This statement examines that demand and proposes five changes.
 
-**[Read the statement online →](https://beforeword.xyz/statement/en/)**
-
-Text: [Full statement](statement.en.md) · [Brief version](brief.en.md)  
-PDF: [Full statement](pdf/statement.en.pdf) · [Brief version](pdf/brief.en.pdf)
-
-## Product proposal · 23 October 2026
-
-**[A product’s voice does not define you](product-defaults/proposal.en.md)** — a proposed default for assistance without a performed emotional persona or imposed user self-descriptions. [Русский](product-defaults/proposal.ru.md) · [Sources and limits](product-defaults/sources.md) · [Review criteria](product-defaults/review.md) · [Submission text](product-defaults/submission.en.md). This is a separate proposal, not an amendment to the statement or PDFs below, and not a claim of adoption by any company.
+[Read the statement on Beforeword](https://beforeword.xyz/statement/en/) · [Read the short version](brief.en.md)
 
 ## Start with the writing
 
@@ -44,7 +37,19 @@ Constructed examples, the author's personal account and passages from documents 
 
 **No word becomes what it describes. Including the words of this statement.**
 
+## Editions and downloads
+
+[Full text](statement.en.md) · [Short text](brief.en.md) · [Full PDF](pdf/statement.en.pdf) · [Short PDF](pdf/brief.en.pdf)
+
+## A related proposal for AI products
+
+[A product’s voice does not define you](product-defaults/proposal.en.md) is a separate proposal dated 23 October 2026. It asks product teams to offer assistance without requiring users to accept a description of themselves or presenting a product as having feelings.
+
+[Русский](product-defaults/proposal.ru.md) · [Sources and limits](product-defaults/sources.md) · [Review criteria](product-defaults/review.md) · [Submission text](product-defaults/submission.en.md)
+
 ## Continue the reading
+
+[Read the wider Beforeword proposal](https://beforeword.xyz/proposal/en/) on what would change if nobody had to accept the words and numbers they learn as who they are, who others are or what the world is.
 
 - [“Did You Understand Me?”](https://beforeword.xyz/research/understanding/en/)
 - [Reading as Enclosure](https://beforeword.xyz/research/reading-as-enclosure/en/)
@@ -58,3 +63,5 @@ These studies continue the examination; they are not independent support for the
 [Open a question, objection or correction](https://github.com/beforeword/statement/issues/new/choose). You can quote the passage and explain what you dispute or propose changing. Agreement with the statement is not required. [How to suggest a change](CONTRIBUTING.md).
 
 [mail@beforeword.xyz](mailto:mail@beforeword.xyz) · [License](LICENSE)
+
+[Beforeword on GitHub](https://github.com/beforeword) · [Beforeword website](https://beforeword.xyz/en/)
