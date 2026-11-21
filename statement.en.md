@@ -1,4 +1,4 @@
-English · [Русский](statement.ru.md) · [Overview](README.md) · [PDF](pdf/statement.en.pdf)
+English · [Русский](statement.ru.md) · [Read on beforeword.xyz](https://beforeword.xyz/statement/en/) · [Overview](README.md) · [PDF](pdf/statement.en.pdf)
 
 # Why are these words about me?
 

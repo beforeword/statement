@@ -1,4 +1,4 @@
-Русский · [English](statement.en.md) · [Обзор](README.ru.md) · [PDF](pdf/statement.ru.pdf)
+Русский · [English](statement.en.md) · [Прочитать на beforeword.xyz](https://beforeword.xyz/statement/) · [Обзор](README.ru.md) · [PDF](pdf/statement.ru.pdf)
 
 # Почему эти слова — обо мне?
 
